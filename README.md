@@ -1,4 +1,4 @@
-# CSE847_TEXT_TO_IMAGE
+# TEXT_TO_IMAGE_FLOWERS
 
 This repository contains code and models for **Text-to-Image Generation** based on various architectures. The project explores the use of different text encodings in GAN-based models and fine-tuning of the **Stable Diffusion** model.
 
