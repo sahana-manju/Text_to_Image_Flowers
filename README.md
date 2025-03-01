@@ -2,6 +2,9 @@
 
 This repository contains code and models for **Text-to-Image Generation** based on various architectures. The project explores the use of different text encodings in GAN-based models and fine-tuning of the **Stable Diffusion** model.
 
+## Results
+The results show that Stable Diffusion achieved the best clarity with a score of 737.77 (Mean: 1.37, Std: 0.21), outperforming GAN and XLNet, which had an FID score of 1355.40 (Mean: 1.0, Std: 0.0). This superior performance in image quality and detail was also confirmed in human evaluations.
+
 ## File Structure
 
 - **`DATASET_DETAILS.md`**  
